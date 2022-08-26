@@ -1,6 +1,6 @@
 # todos
 
-A new Flutter project.
+Application for remembering all kinds of work done by the user, or the task that is to be completed.
 
 ## Getting Started
 
